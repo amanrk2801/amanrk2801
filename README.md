@@ -7,8 +7,8 @@ I'm a passionate Software engineer, with a strong interest in Full stack. Welcom
 <!-- Social Media Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/amanrk2801?style=social)](https://twitter.com/amanrk2801)
 [![GitHub followers](https://img.shields.io/github/followers/amanrk2801?label=Follow&style=social)](https://github.com/amanrk2801)
-[![Linkedin: your-linkedin](https://img.shields.io/badge/-Aman KUmbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://your-portfolio.com/)](https://aman-kumbhalwar.com/)
+[![Linkedin: Aman Kumbhalwar](https://img.shields.io/badge/-Aman%20Kumbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://aman-kumbhalwar.com/)](https://aman-kumbhalwar.com/)
 
 ---
 
@@ -30,7 +30,7 @@ I'm a passionate Software engineer, with a strong interest in Full stack. Welcom
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frameworks and Libraries
 
@@ -54,7 +54,7 @@ I'm a passionate Software engineer, with a strong interest in Full stack. Welcom
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrk2801&show_icons=true&theme=radical)
+![Aman Kumbhalwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrk2801&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrk2801&layout=compact&theme=radical)
 
