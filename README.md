@@ -72,7 +72,7 @@ I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack
 ---
 
 <!-- Recent Activity -->
-## Recent Activity
+<!-- ## Recent Activity -->
 
 <!--START_SECTION:activity-->
 
@@ -83,4 +83,4 @@ I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack
 <!-- Footer -->
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
