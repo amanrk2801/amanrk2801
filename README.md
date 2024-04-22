@@ -1,24 +1,24 @@
 <!-- Header -->
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm Aman Kumbhalwar :)
 
 <!-- Introduction -->
-I'm a passionate [Your Role], with a strong interest in [Your Interests]. Welcome to my GitHub profile!
+I'm a passionate Software engineer, with a strong interest in Full stack. Welcome to my GitHub profile!
 
 <!-- Social Media Badges -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
-[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/your_github_username)
-[![Linkedin: your-linkedin](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://your-portfolio.com/)](https://your-portfolio.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/amanrk2801)
+[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/amanrk2801)
+[![Linkedin: your-linkedin](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://your-portfolio.com/)](https://aman-kumbhalwar.com/)
 
 ---
 
 <!-- About Me -->
 ## About Me
 
-- 💼 I'm currently working as a [Your Role] at [Your Company].
-- 🌱 I'm currently learning [Something New].
+- 💼 I'm currently working as a Software Engineer at XYZ.
+- 🌱 I'm currently learning MERN Stack.
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: amankumbhalwar09@gmail.com
 
 ---
 
