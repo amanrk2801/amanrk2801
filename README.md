@@ -80,6 +80,6 @@ I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack
 ---
 
 <!-- Footer -->
-## 📝 License
+<!-- ## 📝 License -->
 
-This project is licensed under the MIT License.
+<!-- This project is licensed under the MIT License. -->
