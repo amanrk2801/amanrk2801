@@ -69,7 +69,6 @@ I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrk2801&layout=compact&theme=radical)
 
----
 
 <!-- Recent Activity -->
 <!-- ## Recent Activity -->
