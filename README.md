@@ -54,9 +54,9 @@ I'm a passionate [Your Role], with a strong interest in [Your Interests]. Welcom
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrk2801&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrk2801&layout=compact&theme=radical)
 
 ---
 
