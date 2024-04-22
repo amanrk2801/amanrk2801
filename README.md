@@ -6,7 +6,7 @@ I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack
 
 <!-- Social Media Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumbhalwar_aman?style=social)](https://twitter.com/kumbhalwar_aman)
-[![GitHub followers](https://img.shields.io/github/followers/amanrk2801?label=Follow&style=social)](https://github.com/amanrk2801)
+[![GitHub followers](https://img.shields.io/github/followers/amanrk2801?style=social)](https://github.com/amanrk2801)
 [![Linkedin: Aman Kumbhalwar](https://img.shields.io/badge/-Aman%20Kumbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://aman-kumbhalwar.vercel.app/)](https://aman-kumbhalwar.vercel.app/)
 
