@@ -5,9 +5,9 @@
 I'm a passionate Software engineer, with a strong interest in Full stack. Welcome to my GitHub profile!
 
 <!-- Social Media Badges -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/amanrk2801)
-[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/amanrk2801)
-[![Linkedin: your-linkedin](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amanrk2801?style=social)](https://twitter.com/amanrk2801)
+[![GitHub followers](https://img.shields.io/github/followers/amanrk2801?label=Follow&style=social)](https://github.com/amanrk2801)
+[![Linkedin: your-linkedin](https://img.shields.io/badge/-Aman KUmbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://your-portfolio.com/)](https://aman-kumbhalwar.com/)
 
 ---
