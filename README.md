@@ -1,60 +1,75 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<!-- Header -->
+# Hi there! 👋 I'm [Your Name]!
 
-<p align="center">
-  <a href="https://linkedin.com/in/[Your LinkedIn URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/[Your Twitter URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+<!-- Introduction -->
+I'm a passionate [Your Role], with a strong interest in [Your Interests]. Welcome to my GitHub profile!
 
----
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Frontend-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <br>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Backend-Cloudflare_Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
-  <br>
-  <img src="https://img.shields.io/badge/Databases-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <br>
-  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <br>
-  <img src="https://img.shields.io/badge/Devtools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+<!-- Social Media Badges -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
+[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/your_github_username)
+[![Linkedin: your-linkedin](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white&link=https://your-portfolio.com/)](https://your-portfolio.com/)
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<!-- About Me -->
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
-<h3 align="center">Skills</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-90%25-brightgreen" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-85%25-brightgreen" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-80%25-brightgreen" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Node.js-85%25-brightgreen" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-80%25-brightgreen" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-85%25-brightgreen" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-80%25-brightgreen" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-75%25-brightgreen" alt="Docker">
-</p>
+- 💼 I'm currently working as a [Your Role] at [Your Company].
+- 🌱 I'm currently learning [Something New].
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 How to reach me: [Your Email]
 
 ---
 
-<p align="center">
-  📫 Feel free to reach out if you have any questions or suggestions for improvement!
-</p>
+<!-- Technologies -->
+## Technologies
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Frameworks and Libraries
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+<!-- GitHub Stats -->
+## GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+
+---
+
+<!-- Recent Activity -->
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+<!-- Footer -->
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
