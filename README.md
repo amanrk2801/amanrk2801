@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aman Kumbhalwar :)
 
-I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack Development, particularly in the exciting realm of the MERN stack. Welcome to my GitHub profile, where I craft innovative solutions and bring ideas to life!
+I'm a passionate Software Engineer, dedicated to mastering the art of Full Stack Development. Welcome to my GitHub profile, where I craft innovative solutions and bring ideas to life!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumbhalwar_aman?style=social)](https://twitter.com/kumbhalwar_aman)
 [![Linkedin: Aman Kumbhalwar](https://img.shields.io/badge/-Aman%20Kumbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanrk2801/)](https://www.linkedin.com/in/amanrk2801/)
