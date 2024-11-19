@@ -5,6 +5,8 @@
 
 ![Welcome](https://media.giphy.com/media/your-welcome-gif-url/giphy.gif)
 
+<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
+
 I'm a **passionate Software Engineer** dedicated to mastering the art of **Full Stack Development**. Welcome to my GitHub profile, where I craft innovative solutions and bring ideas to life!
 
 <div align="center" style="margin: 20px 0;">
