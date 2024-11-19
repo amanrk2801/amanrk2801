@@ -3,9 +3,7 @@
 
 # 👋 Hi there! I'm Aman Kumbhalwar
 
-![Welcome](https://media.giphy.com/media/your-welcome-gif-url/giphy.gif)
-
-<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
+![Welcome]([https://media.giphy.com/media/your-welcome-gif-url/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0NjF4eGJ0ZmRhcG9xenUycXZ5bG9heWg0dDRqZHNoc29sZHU0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif))
 
 I'm a **passionate Software Engineer** dedicated to mastering the art of **Full Stack Development**. Welcome to my GitHub profile, where I craft innovative solutions and bring ideas to life!
 
