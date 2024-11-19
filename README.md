@@ -14,88 +14,104 @@ I'm a **passionate Software Engineer** dedicated to mastering the art of **Full 
   <a href="https://www.linkedin.com/in/amanrk2801/">
     <img src="https://img.shields.io/badge/-Aman%20Kumbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://aman-kumbhalwar.vercel.app/">
+  <a href="https://amankumbhalwar.com/">
     <img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/amanrk2801">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 Profile Summary
 
-- 💼 **Current Role:** Software Engineer at **XYZ**
-- 🌱 **Learning:** Exploring the **MERN Stack**
-- 💬 **Ask Me About:** Anything! I'm happy to help.
-- 📫 **Reach Me At:** [amankumbhalwar09@gmail.com](mailto:amankumbhalwar09@gmail.com)
-- 🧠 **Interests:** Building scalable web applications, exploring new technologies, and contributing to open-source projects.
+Computer Science Engineer with hands-on experience in full-stack web development. Skilled in building responsive web applications using React, Node.js, and AWS. Known for problem-solving, teamwork, and a proactive approach to new technologies. Looking to apply technical skills and project experience in a dynamic development role.
+
+---
+
+## 🎓 Education
+
+**Rashtrasant Tukadoji Maharaj Nagpur University**  
+**Bachelor of Engineering (Computer Science)**  
+Nagpur, Maharashtra  
+*June 2019 – June 2023*  
+• CGPA: 7.19/10
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Project One](https://github.com/amanrk2801/project-one)
-A brief description of Project One. This project showcases your ability to build scalable applications using modern technologies.
+### [Medium Clone](https://github.com/amanrk2801/medium-clone)
+*React, Firebase, Tailwind CSS* | **October 2024**
 
-- **Technologies Used:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- Developed a fully functional blogging platform emulating Medium, featuring CRUD operations for articles.
+- Implemented Firebase Authentication for secure user login and session management.
+- Used Firebase Firestore for storing user and post data in real-time.
+- Styled the interface with Tailwind CSS to ensure responsiveness and user engagement.
+- [View Project](https://github.com/amanrk2801/medium-clone) | [Live Demo](https://medium-clone-demo.com)
 
-### [Project Two](https://github.com/amanrk2801/project-two)
-A brief description of Project Two. Highlight what makes this project unique and any challenges you overcame.
+### [MovieMoods](https://github.com/amanrk2801/moviemoods)
+*React, Redux, Material UI* | **September 2023**
 
-- **Technologies Used:** 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- Developed a web app enabling users to discover movies tailored to specific moods and preferences.
+- Used Redux for comprehensive state management to enhance user experience and streamline data handling.
+- Designed with Material UI for a cohesive and modern user interface.
+- Implemented a dynamic search feature allowing users to filter movies based on personalized criteria.
+- [View Project](https://github.com/amanrk2801/moviemoods) | [Live Demo](https://moviemoods-demo.com)
 
-### [Project Three](https://github.com/amanrk2801/project-three)
-A brief description of Project Three. Explain the purpose and the impact of the project.
+### [Intelligent AI Chatbot](https://github.com/amanrk2801/intelligent-ai-chatbot)
+*Python, Flask, Dialogflow* | **April 2023**
 
-- **Technologies Used:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Engineered a chatbot capable of diagnosing common health concerns and offering personalized advice.
+- Integrated Dialogflow for natural language understanding, enhancing response accuracy and user engagement.
+- Used Flask for API integration and backend support to handle chatbot interactions seamlessly.
+- Deployed on Telegram to provide convenient, real-time access for users.
+- [View Project](https://github.com/amanrk2801/intelligent-ai-chatbot) | [Live Demo](https://t.me/your-chatbot-link)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+### ⚙️ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/-Recoil-3075C6?style=flat-square&logo=recoil&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-FF9900?style=flat-square&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🔗 ORM
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### 🛠️ Devtools
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+### 🛠️ Developer Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-282C34?style=flat-square&logo=turborepo&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-20232A?style=flat-square&logo=testing-library&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E4C13?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
@@ -110,13 +126,22 @@ A brief description of Project Three. Explain the purpose and the impact of the 
 
 ---
 
-## 📝 Blog
+## 📜 Certifications
 
-If you write technical blogs or articles, you can showcase them here.
+### [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/your-certificate-link)
+*Udemy* | **July 2023**
 
-- [Understanding MERN Stack](https://yourblog.com/mern-stack)
-- [Building Scalable Web Applications](https://yourblog.com/scalable-web-apps)
-- [Introduction to Full Stack Development](https://yourblog.com/full-stack-intro)
+- Completed a comprehensive course on React covering hooks, React Router, and Redux.
+
+---
+
+## 🏆 Achievements
+
+### **Research Paper: Intelligent AI Chatbot**
+*Rashtrasant Tukadoji Maharaj Nagpur University* | **June 2023**
+
+- Co-led a team to publish a research paper on an AI Chatbot in the *International Research Journal of Modern Engineering and Technology Sciences*.
+- [Access Research Paper](https://link-to-your-research-paper.com)
 
 ---
 
@@ -124,10 +149,11 @@ If you write technical blogs or articles, you can showcase them here.
 
 I'm always excited to collaborate on interesting projects or discuss new opportunities. Whether you have a question, a suggestion, or just want to say hi, feel free to reach out!
 
-- 📧 **Email:** [amankumbhalwar09@gmail.com](mailto:amankumbhalwar09@gmail.com)
+- 📧 **Email:** [amanrk2801@gmail.com](mailto:amanrk2801@gmail.com)
+- 🌐 **Website:** [amankumbhalwar.com](https://amankumbhalwar.com/)
 - 💼 **LinkedIn:** [Aman Kumbhalwar](https://www.linkedin.com/in/amanrk2801/)
-- 🌐 **Portfolio:** [aman-kumbhalwar.vercel.app](https://aman-kumbhalwar.vercel.app/)
 - 🐦 **Twitter:** [@kumbhalwar_aman](https://twitter.com/kumbhalwar_aman)
+- 🛠️ **GitHub:** [github.com/amanrk2801](https://github.com/amanrk2801)
 
 ---
 
