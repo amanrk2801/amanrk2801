@@ -3,26 +3,7 @@
 
 # 👋 Hi there! I'm Aman Kumbhalwar
 
-![Welcome]([https://media.giphy.com/media/your-welcome-gif-url/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0NjF4eGJ0ZmRhcG9xenUycXZ5bG9heWg0dDRqZHNoc29sZHU0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif))
-
-I'm a **passionate Software Engineer** dedicated to mastering the art of **Full Stack Development**. Welcome to my GitHub profile, where I craft innovative solutions and bring ideas to life!
-
-<div align="center" style="margin: 20px 0;">
-  <a href="https://twitter.com/kumbhalwar_aman">
-    <img src="https://img.shields.io/twitter/follow/kumbhalwar_aman?style=social" alt="Twitter Follow"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amanrk2801/">
-    <img src="https://img.shields.io/badge/-Aman%20Kumbhalwar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://amankumbhalwar.com/">
-    <img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/amanrk2801">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
+![Welcome][https://media.giphy.com/media/your-welcome-gif-url/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0NjF4eGJ0ZmRhcG9xenUycXZ5bG9heWg0dDRqZHNoc29sZHU0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
 ## 🌟 Profile Summary
 
