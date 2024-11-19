@@ -1,10 +1,3 @@
-<!-- Banner Image -->
-![Banner](https://your-banner-image-url.com/banner.png)
-
-# 👋 Hi there! I'm Aman Kumbhalwar
-
-![Welcome][https://media.giphy.com/media/your-welcome-gif-url/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0NjF4eGJ0ZmRhcG9xenUycXZ5bG9heWg0dDRqZHNoc29sZHU0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
-
 ## 🌟 Profile Summary
 
 Computer Science Engineer with hands-on experience in full-stack web development. Skilled in building responsive web applications using React, Node.js, and AWS. Known for problem-solving, teamwork, and a proactive approach to new technologies. Looking to apply technical skills and project experience in a dynamic development role.
