@@ -23,7 +23,7 @@ Nagpur, Maharashtra
 - Implemented Firebase Authentication for secure user login and session management.
 - Used Firebase Firestore for storing user and post data in real-time.
 - Styled the interface with Tailwind CSS to ensure responsiveness and user engagement.
-- [View Project](https://github.com/amanrk2801/medium-clone) | [Live Demo](https://mediumclone-v1.vercel.app/)
+- [View Project](https://github.com/amanrk2801/mediumclone_v1) | [Live Demo](https://mediumclone-v1.vercel.app/)
 
 ### [MovieMoods](https://github.com/amanrk2801/moviemoods)
 *React, Redux, Material UI* | **September 2023**
