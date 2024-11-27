@@ -16,14 +16,14 @@ Nagpur, Maharashtra
 
 ## 🚀 Featured Projects
 
-### [Medium Clone](https://github.com/amanrk2801/medium-clone)
+### [Medium Clone](https://github.com/amanrk2801/mediumclone_v1)
 *React, Firebase, Tailwind CSS* | **October 2024**
 
 - Developed a fully functional blogging platform emulating Medium, featuring CRUD operations for articles.
 - Implemented Firebase Authentication for secure user login and session management.
 - Used Firebase Firestore for storing user and post data in real-time.
 - Styled the interface with Tailwind CSS to ensure responsiveness and user engagement.
-- [View Project](https://github.com/amanrk2801/medium-clone) | [Live Demo](https://medium-clone-demo.com)
+- [View Project](https://github.com/amanrk2801/medium-clone) | [Live Demo](https://mediumclone-v1.vercel.app/)
 
 ### [MovieMoods](https://github.com/amanrk2801/moviemoods)
 *React, Redux, Material UI* | **September 2023**
@@ -32,7 +32,7 @@ Nagpur, Maharashtra
 - Used Redux for comprehensive state management to enhance user experience and streamline data handling.
 - Designed with Material UI for a cohesive and modern user interface.
 - Implemented a dynamic search feature allowing users to filter movies based on personalized criteria.
-- [View Project](https://github.com/amanrk2801/moviemoods) | [Live Demo](https://moviemoods-demo.com)
+- [View Project](https://github.com/amanrk2801/moviemoods) | [Live Demo](https://moviemoods.vercel.app/)
 
 ### [Intelligent AI Chatbot](https://github.com/amanrk2801/intelligent-ai-chatbot)
 *Python, Flask, Dialogflow* | **April 2023**
@@ -41,7 +41,7 @@ Nagpur, Maharashtra
 - Integrated Dialogflow for natural language understanding, enhancing response accuracy and user engagement.
 - Used Flask for API integration and backend support to handle chatbot interactions seamlessly.
 - Deployed on Telegram to provide convenient, real-time access for users.
-- [View Project](https://github.com/amanrk2801/intelligent-ai-chatbot) | [Live Demo](https://t.me/your-chatbot-link)
+- [View Project](https://github.com/amanrk2801/Doctor_AI) | [Live Demo](https://t.me/your-chatbot-link)
 
 ---
 
@@ -100,7 +100,7 @@ Nagpur, Maharashtra
 
 ## 📜 Certifications
 
-### [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/your-certificate-link)
+### [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/UC-94fe55f3-259e-48dc-96e2-847b371ce21a/)
 *Udemy* | **July 2023**
 
 - Completed a comprehensive course on React covering hooks, React Router, and Redux.
@@ -113,7 +113,7 @@ Nagpur, Maharashtra
 *Rashtrasant Tukadoji Maharaj Nagpur University* | **June 2023**
 
 - Co-led a team to publish a research paper on an AI Chatbot in the *International Research Journal of Modern Engineering and Technology Sciences*.
-- [Access Research Paper](https://link-to-your-research-paper.com)
+- [Access Research Paper](https://www.irjmets.com/uploadedfiles/paper/issue_6_june_2023/41275/final/fin_irjmets1685775338.pdf)
 
 ---
 
