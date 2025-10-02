@@ -6,6 +6,21 @@ Computer Science Engineer with hands-on experience in full-stack web development
 
 ## 🎓 Education
 
+**Post Graduate Diploma in Advanced Computing (PG-DAC)**  
+*Sunbeam Institute of Information Technology, Karad (ATC of C-DAC ACTS, Pune)*  
+*Feb 2025 – Aug 2025*  
+
+- Completed **900-hour full-time course** covering:  
+  • C++ Programming, Database Technologies, Microsoft .NET  
+  • Web-based Java Programming, Object-Oriented Programming with Java  
+  • Algorithms & Data Structures, Web Programming Technologies  
+  • Operating Systems & Software Development Methodologies  
+  • Project Work, General Aptitude & Communication  
+- Hands-on experience with **frontend frameworks (React)**, **backend frameworks (Spring Boot)**, and **cloud deployment (AWS)**.  
+- Completed multiple **real-world projects**, including a **CarpoolConnect full-stack application**, demonstrating end-to-end software development skills.  
+- Gained proficiency in **version control (Git)**, **CI/CD pipelines**, and **unit & integration testing**.  
+- [View PG-DAC Certificate](https://drive.google.com/file/d/1OfIMsvtPoQFO-raCcbexuFENIlO3msbv/view?usp=sharing)
+
 **Rashtrasant Tukadoji Maharaj Nagpur University**  
 **Bachelor of Engineering (Computer Science)**  
 Nagpur, Maharashtra  
@@ -15,6 +30,16 @@ Nagpur, Maharashtra
 ---
 
 ## 🚀 Featured Projects
+
+### [CarpoolConnect - Full-Stack Carpooling Platform](https://github.com/amanrk2801/carpool)
+*React, Spring Boot, MySQL, AWS* | **2025**
+
+- Developed a scalable carpooling platform enabling users to **offer and join rides** with real-time availability.
+- Built **Spring Boot REST APIs** for authentication, ride management, and booking workflows.
+- Implemented **JWT-based secure authentication** and role-based permissions for drivers and passengers.
+- Designed responsive UI using **React** with state management and form validation.
+- Hosted the complete stack on **AWS** ensuring high availability and performance.
+- [View Project](https://github.com/amanrk2801/carpool) | [Live Demo](http://carpoolconnect.me/)
 
 ### [Medium Clone](https://github.com/amanrk2801/mediumclone_v1)
 *React, Firebase, Tailwind CSS* | **October 2024**
@@ -68,6 +93,10 @@ Nagpur, Maharashtra
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -81,6 +110,8 @@ Nagpur, Maharashtra
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-282C34?style=flat-square&logo=turborepo&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
@@ -104,6 +135,10 @@ Nagpur, Maharashtra
 *Udemy* | **July 2023**
 
 - Completed a comprehensive course on React covering hooks, React Router, and Redux.
+
+### Hackathon Certificates
+- [Hackathon Certificate 1](https://drive.google.com/file/d/19kYfNgfaISvFBiiZWRPuqWP8SwAr2I4j/view?usp=sharing)  
+- [Hackathon Certificate 2](https://drive.google.com/file/d/1yaOgQHlHAqEaQLD7dNfhg72f3rsC311q/view?usp=sharing)  
 
 ---
 
@@ -131,4 +166,3 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 <!-- Footer -->
 *Built with ❤️ by Aman Kumbhalwar*
-
